@@ -1,0 +1,11 @@
+{
+  "isTikTokEnabled": true,
+  "isSoundCloudEnabled": true,
+  "isDouyinEnabled": true,
+  "isFacebookEnabled": true,
+  "isYouTubeEnabled": true,
+  "isDownAIOEnabled": true,
+  "isXcomEnabled": true,
+  "isThreadsEnabled": true,
+  "isXvideosEnabled": true
+}
